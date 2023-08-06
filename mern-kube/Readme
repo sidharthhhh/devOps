@@ -1,0 +1,13 @@
+# all commands
+# minikube start
+# kubectl apply -f secret.yaml
+#  kubectl apply -f mongo-config.yaml
+#  kubectl apply -f mongo-app.yaml 
+#   kubectl apply -f web-app.yaml 
+#   kubectl get pod
+#   kubectl get pod -o wide
+#    kubectl get secret
+#    kubectl get configmap
+#     kubectl get svc
+#     minikube ip
+#     minikube service webapp-service
