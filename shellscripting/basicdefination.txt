@@ -1,0 +1,16 @@
+Shell scripting in Linux refers to the process of creating and running scripts written in a 
+shell scripting language, such as Bash (Bourne Again SHell). A shell script is a series of 
+commands and instructions written in a text file that the shell (command-line interpreter) 
+executes sequentially. These scripts allow users to automate tasks, perform system operations, 
+and manipulate data without needing to interact with the command-line interface manually each
+time.
+In simpler terms, shell scripting involves writing a set of commands that a user wants the
+computer to execute, and these commands are saved in a script file. When the script is run, 
+the shell reads and interprets each command in the file, executing them one by one.
+Shell scripting is powerful because it can combine various Linux commands, control structures
+(like loops and conditionals), variables, and user input to create customized and efficient
+solutions for different tasks, ranging from simple file manipulation to complex system 
+administration tasks.
+Overall, shell scripting is a fundamental skill for Linux users and administrators, as it 
+allows them to automate repetitive tasks, manage system resources, and streamline various 
+operations.
